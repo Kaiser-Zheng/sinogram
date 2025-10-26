@@ -1,0 +1,5 @@
+sinogram
+*.txt
+*.pdf
+*.encoded
+*.decoded
